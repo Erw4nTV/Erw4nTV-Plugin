@@ -1,0 +1,12 @@
+name: PluginLife
+version: 1.0.0
+author: Erw4nTV
+main: fr.erw4ntv.pluginlife.Main
+commands:
+  broadcast:
+    description: Envoyer un message à tout le serveur.
+    usage: /broadcast <message>
+    aliases:
+      - bc
+  fly:
+    description: Pour voler
